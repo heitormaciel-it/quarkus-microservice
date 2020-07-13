@@ -1,7 +1,7 @@
-/home/heitormaciel/workspace-java-quarkus/heitormaciel-it/quarkus-microservice/src/main/java/br/com/shopi/product/dto/ProductDTO.java
-/home/heitormaciel/workspace-java-quarkus/heitormaciel-it/quarkus-microservice/src/main/java/br/com/shopi/product/controller/ProductController.java
-/home/heitormaciel/workspace-java-quarkus/heitormaciel-it/quarkus-microservice/src/main/java/br/com/shopi/product/populate/Populator.java
-/home/heitormaciel/workspace-java-quarkus/heitormaciel-it/quarkus-microservice/src/main/java/br/com/shopi/product/service/ProductService.java
-/home/heitormaciel/workspace-java-quarkus/heitormaciel-it/quarkus-microservice/src/main/java/br/com/shopi/product/repository/ProductRepository.java
-/home/heitormaciel/workspace-java-quarkus/heitormaciel-it/quarkus-microservice/src/main/java/br/com/shopi/product/entity/Product.java
-/home/heitormaciel/workspace-java-quarkus/heitormaciel-it/quarkus-microservice/src/main/java/br/com/shopi/product/populators/ProductPopulator.java
+/home/heitormaciel/workspace-java-quarkus/quarkus-microservice/src/main/java/br/com/shopi/product/entity/Product.java
+/home/heitormaciel/workspace-java-quarkus/quarkus-microservice/src/main/java/br/com/shopi/product/service/ProductService.java
+/home/heitormaciel/workspace-java-quarkus/quarkus-microservice/src/main/java/br/com/shopi/product/populators/ProductPopulator.java
+/home/heitormaciel/workspace-java-quarkus/quarkus-microservice/src/main/java/br/com/shopi/product/controller/ProductController.java
+/home/heitormaciel/workspace-java-quarkus/quarkus-microservice/src/main/java/br/com/shopi/product/repository/ProductRepository.java
+/home/heitormaciel/workspace-java-quarkus/quarkus-microservice/src/main/java/br/com/shopi/product/dto/ProductDTO.java
+/home/heitormaciel/workspace-java-quarkus/quarkus-microservice/src/main/java/br/com/shopi/product/populate/Populator.java
