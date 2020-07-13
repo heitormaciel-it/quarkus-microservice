@@ -1,0 +1,8 @@
+br/com/shopi/product/populate/Populator.class
+br/com/shopi/product/service/ProductService.class
+br/com/shopi/product/entity/Product.class
+br/com/shopi/product/repository/ProductRepository.class
+META-INF/panache-archive.marker
+br/com/shopi/product/controller/ProductController.class
+br/com/shopi/product/populators/ProductPopulator.class
+br/com/shopi/product/dto/ProductDTO.class
